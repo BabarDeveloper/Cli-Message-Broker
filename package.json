@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "publisher": "node publisher.js",
-    "subscriber": "node subscriber.js"
+    "pub": "node publisher.js",
+    "sub": "node subscriber.js"
   },
   "repository": {
     "type": "git",
